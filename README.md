@@ -17,5 +17,7 @@ i used Postman and open event listeners to:
 the json for events:
 
 >blast: {"userInt": 4} //4 is the number of users
+
 >wild: {}
+
 >spin: {}
