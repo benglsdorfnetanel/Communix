@@ -42,7 +42,6 @@ class SocketService {
                         const arrayUserPos = [];
                         res[0].map(data => userIds.add(data));
                         const test = Array.from(userIds);
-                        console.log("data.userInt",data.userInt);
                         for (let index = 0; index < data.userInt; index++) {
                             arrayUserPos.push(Math.floor(Math.random() * userIds.size))
                         }
