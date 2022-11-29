@@ -1,8 +1,8 @@
 ## Communix
 
-#to run the project:
+to run the project:
 
-#CMD:
+open CMD and copy:
 
 > docker run -p 6379:6379 --name some-redis -d redis
 
