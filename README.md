@@ -9,9 +9,9 @@ open CMD and copy:
 i used Postman and open event listeners to:
 
  > blast
- > 
+ 
  > wild
- > 
+ 
  > spin
 
 the json for events:
