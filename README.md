@@ -6,6 +6,14 @@ open CMD and copy:
 
 > docker run -p 6379:6379 --name some-redis -d redis
 
+after docker finished, open the project and run:
+
+>npm i
+
+and after the install:
+
+>npm start
+
 i used Postman and open event listeners to:
 
  > blast
